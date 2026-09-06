@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sujal-Shejwal/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sujal-Shejwal/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Sujal-Shejwal/DSA-Leetcode/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/Sujal-Shejwal/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Sujal-Shejwal/DSA-Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
@@ -50,9 +51,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sujal-Shejwal/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sujal-Shejwal/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Sujal-Shejwal/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Sujal-Shejwal/DSA-Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sujal-Shejwal/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Sujal-Shejwal/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
